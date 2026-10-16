@@ -1,5 +1,7 @@
 # API Sentinel — DeveloperOS Flagship
 
+[![Live App](https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B.svg)](https://devos-api-sentinel.streamlit.app)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Ecosystem: DeveloperOS](https://img.shields.io/badge/Ecosystem-DeveloperOS-6366f1.svg)](https://developeros.in)
 [![Tools Directory](https://img.shields.io/badge/Tools%20Directory-Online-10b981.svg)](https://toolkit.developeros.in)
@@ -9,6 +11,9 @@
 Standalone in-memory API mock server, schema contract validator, and route simulation suite.
 
 ---
+
+> 🚀 **Live Application**: [https://devos-api-sentinel.streamlit.app](https://devos-api-sentinel.streamlit.app)
+
 
 ## 🖥️ Interface Preview
 
@@ -96,6 +101,7 @@ When configuring this repository on GitHub, apply these topics:
 
 Distributed under the **MIT License**. See [LICENSE](LICENSE) for details.
 
+- **Live Application**: [https://devos-api-sentinel.streamlit.app](https://devos-api-sentinel.streamlit.app)
 - **Main Website**: [https://developeros.in](https://developeros.in)
 - **Tools Portal**: [https://toolkit.developeros.in](https://toolkit.developeros.in)
 - **GitHub Organization**: [https://github.com/developerOSindia](https://github.com/developerOSindia)
